@@ -49,9 +49,9 @@ While this repository doesn't contain source codes, we welcome any feedback or s
 
 ## App Screenshots
 <p float="left">
-  <img src="https://github.com/dorukarslan/Pass-Guard/assets/79598598/d685b40b-0e71-444c-99ed-d48805b3c1ea" width="25%">
-  <img src="https://github.com/dorukarslan/Pass-Guard/assets/79598598/637fa0d5-1a64-4921-90d7-258d7f74ede7" width="25%">
-  <img src="https://github.com/dorukarslan/Pass-Guard/assets/79598598/a385aa88-3b96-4909-a4ee-2768395c0e06" width="25%">
-   <img src="https://github.com/dorukarslan/Pass-Guard/assets/79598598/c9ab0a64-2c22-4bbf-b52a-ac929aec72f1" width="25%">
+  <img src="https://github.com/dorukarslan/Pass-Guard/assets/79598598/d685b40b-0e71-444c-99ed-d48805b3c1ea" width="33%">
+  <img src="https://github.com/dorukarslan/Pass-Guard/assets/79598598/637fa0d5-1a64-4921-90d7-258d7f74ede7" width="33%">
+  <img src="https://github.com/dorukarslan/Pass-Guard/assets/79598598/a385aa88-3b96-4909-a4ee-2768395c0e06" width="33%">
+   <img src="https://github.com/dorukarslan/Pass-Guard/assets/79598598/c9ab0a64-2c22-4bbf-b52a-ac929aec72f1" width="33%">
 </p>
 
